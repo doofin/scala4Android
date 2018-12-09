@@ -28,5 +28,4 @@ project/plugins/project/
 *.war
 *.ear
 
-*.v
-*.fir
+proguard-sbt.txt
