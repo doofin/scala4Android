@@ -3,8 +3,8 @@
       package="com.exam">
     <application android:label="exam"
                  android:icon="@drawable/scala_android"
-    android:theme="@android:style/Theme.DeviceDefault.Dialog.NoActionBar"
     >
+        <!--android:theme="@android:style/Theme.DeviceDefault.Dialog.NoActionBar"-->
         <activity android:name="MainActivity"
                   android:label="exam"
 		  >
