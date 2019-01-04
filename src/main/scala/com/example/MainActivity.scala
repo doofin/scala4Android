@@ -1,4 +1,4 @@
-package com.exam
+package com.example
 
 import android.app.Activity
 import android.content.Context

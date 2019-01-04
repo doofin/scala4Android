@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.exam">
-    <application android:label="exam"
+      package="com.example">
+    <application android:label="scalaAnd"
                  android:icon="@drawable/scala_android"
     >
         <!--android:theme="@android:style/Theme.DeviceDefault.Dialog.NoActionBar"-->
         <activity android:name="MainActivity"
-                  android:label="exam"
+                  android:label="scalaAnd"
 		  >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
